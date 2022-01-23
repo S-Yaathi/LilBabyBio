@@ -1,0 +1,80 @@
+*{
+background-color: lightgrey;
+box-sizing:border-box;
+}
+body{
+  padding: 25px;
+}
+
+a:link{ color:blue;}
+a:visited{ color:black;}
+a:hover{
+color:red;
+border:3px}
+
+.title {
+	color: #black;
+	font-size:48px;
+}
+
+.intro{
+line-height:0rem;
+}
+
+.highlight{
+font-size:30px;
+}
+
+
+div{
+width:100vw;
+height:90vh;
+}
+img{
+max-width:100%;
+height:auto;
+max-height:90%;
+}
+
+
+.info{
+text-align:center;
+font-size:30px;
+
+}
+.bio{
+}
+
+.font{
+font-size:1.2em;
+}
+
+.music{text-align:center;
+font-size:35px;
+}
+
+.songs{
+background-color: grey;
+padding:15px;
+display:inline-block;
+font-size:1.5rem;
+}
+
+.list{
+line-height:1.5rem;
+border:2px solid black;
+display:inline-block;
+
+}
+
+.albums{
+background-color: grey;
+padding:15px;
+display:inline-block;
+font-size:1.5rem;
+}
+
+
+
+footer{
+font-size:0.5em;}
